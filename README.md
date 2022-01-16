@@ -323,9 +323,15 @@ the United States. Be like Franklin and keep on learning!
 
 - Finger or Toes
 
+- Virus - Share a program you've created via Facebook, Twitter, or email
+
 - High Five
 
 - Hang Ten
+
+- Persistence - Answer a problem correctly after having some trouble with a few problems and sticking with the skill
+
+- Express Yourself - Customize your profile avatar and fill up your display case
 
 Moon Badges:
 
@@ -360,7 +366,11 @@ champion of abolition and rights for African Americans throughout the nineteenth
 
 - Ludicrous Streak - Correctly answer 100 problems in a row in a single skill
 
-- 
+- Astute Analyzer - Evaluate 30 projects
+
+- Geek of the Week: Mastery - Finish 5 mastery challenges in a week
+
+- Sticktoitiveness - Answer a problem correctly after having some trouble with many problems and sticking with the skill
 
 Earth Badges:
 
@@ -452,7 +462,7 @@ important contributions to the field of mathematics. Be like Ramanujan and keep 
 
 - Support the #KhanCampaign 
 
-- I Beat Cam
+- I Beat Cam - Earn more points than Cam during the 2015 summer
 
 - 
 
