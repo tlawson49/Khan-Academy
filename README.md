@@ -319,19 +319,25 @@ the United States. Be like Franklin and keep on learning!
 
 - Tinkerer - Pause a talk-through and tinker with the code
 
-- Good Habits
+- Good Habits - Watch part of any video or work on any skill each day for 5 consecutive days
 
 - Finger or Toes
 
 - Virus - Share a program you've created via Facebook, Twitter, or email
 
-- High Five
+- High Five - Five mastery challenges completed
 
 - Hang Ten
 
 - Persistence - Answer a problem correctly after having some trouble with a few problems and sticking with the skill
 
 - Express Yourself - Customize your profile avatar and fill up your display case
+
+- You Can Learn Anything - You only have to know one thing, You can learn anything. Join the movement.
+
+- Five Is Alive! - Finish 5 practice tasks
+
+- 
 
 Moon Badges:
 
@@ -371,6 +377,14 @@ champion of abolition and rights for African Americans throughout the nineteenth
 - Geek of the Week: Mastery - Finish 5 mastery challenges in a week
 
 - Sticktoitiveness - Answer a problem correctly after having some trouble with many problems and sticking with the skill
+
+- Going Transonic - Quickly & correctly answer 10 skill problems in a row (time limit depends on difficulty)
+
+- Going Supersonic - Quickly & correctly answer 20 skill problems in a row (time limit depends on difficulty)
+
+- Tenacity - Answer more than 50 problems mostly correctly in a skill before becoming proficient
+
+- 
 
 Earth Badges:
 
@@ -423,7 +437,13 @@ Earth badges are rare. They require a significant amount of learning.
 - Helen Keller - Earn 750,000 energy points. Helen Keller (1880-1968) was blind and deaf. With the help of her teacher Ann Sullivan, she went on to graduate from college
 and became an influential writer, lecturer, and activist. Be like Keller and keep on learning!
 
-- Sub-light Speed
+- Sub-light Speed - Quickly & correctly answer 42 skill problems in a row (time limit depends on difficulty)
+
+- SAT Marathoner - Complete two SAT practice exams and four timed mini-sections
+
+- PSAT/NMSQT - Complete the PSAT/NMSQT
+
+- Orionid
 
 - 
 
@@ -463,6 +483,19 @@ important contributions to the field of mathematics. Be like Ramanujan and keep 
 - Support the #KhanCampaign 
 
 - I Beat Cam - Earn more points than Cam during the 2015 summer
+
+- Super Knowledge Games - Complete 200 excercises and/or 200 videos completed (any combination of the two that add up to 200)
+
+- Helpful Hopper - Be one of the top 10 question answerers during Hour of Code 2015
+
+- Leonid - Closed 2020 with an active streak of 1000+ days. Leonid meteors are the fastest of all and produce spectacular showers when your lucky enough to see 
+them. This is one of the rarest, most impressive badges on Khan Academy.
+
+- Gold Knowledge Games - Complete 100 excercises and/or 100 videos completed (any combination of the two that add up to 100)
+
+- Perseid
+
+- Full-Timer - Become a full-time member of the Khan Academy team
 
 - 
 
@@ -524,6 +557,10 @@ Challenge Patches are special awards for completing topic challenges.
 
 - JS: Object-Oriented Design - Complete the OO design tutorial in Intro to JS
 
+- 8th Grade: Geometry - Achieve mastery in all skills in 8th Grade: Geometry
+
+-
+
 Golden Winston Badges:
 
 - Contest: Mysteries - Winner of the Nov/Dec 2021 Coding Contest
@@ -556,11 +593,11 @@ Golden Winston Badges:
 
 - Contest: Contest Badge! - The winner of the 2015 contest to make a contest badge
 
-- Contest:
+- Contest: Math Concept - Winner of the May/June 2021 Coding Contest
 
-- Contest:
+- Contest: Sports - Winner of the July/August 2020 Coding Contest
 
-- Contest:
+- Contest: 
 
 - Contest:
 
@@ -764,6 +801,8 @@ Project Backupper - https://www.khanacademy.org/computer-programming/project-bac
 
 KA API - https://www.khanacademy.org/computer-programming/new-ka-api/5236998489030656
 
+API CourseFind - https://www.khanacademy.org/computer-programming/api-coursefind/4937855647563776
+
 KA Project Viewer - https://www.khanacademy.org/computer-programming/ka-project-viewer/5849193904128000
 
 Platformer Physics - https://www.khanacademy.org/computer-programming/platformer-physics/5217723531345920
@@ -778,6 +817,8 @@ Khan API Course + Lab - https://www.khanacademy.org/computer-programming/khan-ap
 
 SAL KA API LABS - https://www.khanacademy.org/computer-programming/sal-ka-an-api-labs/5414181885788160
 
+Khan API Lookup - https://www.khanacademy.org/computer-programming/khan-api-lookup/4538740697300992
+
 Lowest Comment Finder (API) - https://www.khanacademy.org/computer-programming/lowest-comment-finder-api/5202171842871296
 
 Hour of Code FAQ - https://www.khanacademy.org/computer-programming/hour-of-code-faq/5681423169748992
@@ -785,6 +826,8 @@ Hour of Code FAQ - https://www.khanacademy.org/computer-programming/hour-of-code
 Web Speech API - https://www.khanacademy.org/computer-programming/web-speech-api/6161914157547520
 
 KhanHub - https://www.khanacademy.org/computer-programming/khanhub-official-project-page/4686161812078592
+
+W3 Schools - https://www.w3schools.com/
 
 ### Tutorials
 
