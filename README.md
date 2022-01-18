@@ -688,6 +688,7 @@ important contributions to the field of mathematics. Be like Ramanujan and keep 
 
 - Support the #KhanCampaign 
 
+- Perseus Team - Trained by the legendary Perseus himself, you are a fearless creator and wielder of interactive tools
 - I Beat Cam - Earn more points than Cam during the 2015 summer
 
 - Leonid - Closed 2020 with an active streak of 1000+ days. Leonid meteors are the fastest of all and produce spectacular showers when your lucky enough to see 
@@ -726,6 +727,8 @@ That leaves the latest badge, Artemis. I did look up the code for this badge whe
 #### Challenge Patches:
 
 Challenge Patches are special awards for completing topic challenges.
+
+- Master of Algebra - Complete the Algebra challenge
 
 - Super Knowledge Games - Complete 200 excercises and/or 200 videos completed (any combination of the two that add up to 200)
 
