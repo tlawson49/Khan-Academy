@@ -25,7 +25,7 @@ As Nadia improved in math class, word got around and Sal started tutoring a hand
 to begin recording videos and posting them on YouTube in 2006 so everyone could watch at their own pace. More and more people started watching, and Sal has been 
 making videos ever since.
 
-The organization was incorporated as a 501c(3) nonprofit in 2008. Sal continued to work on Khan Academy during his spare time until the fall of 2009, when he quit his 
+The organization was incorporated as a 501c (3) nonprofit in 2008. Sal continued to work on Khan Academy during his spare time until the fall of 2009, when he quit his 
 hedge fund job and decided to pursue the endeavor full-time. He lived off of his savings for the first nine months, until he received his first significant donation 
 from Ann Doerr. In September 2010, Khan Academy received large grants from Google ($2 million) and the Bill and Melinda Gates Foundation ($1.5 million) and began to 
 build out an organization. 
