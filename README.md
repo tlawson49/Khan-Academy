@@ -1057,6 +1057,8 @@ jQuery Project Evaluation Rubrics - https://docs.google.com/document/d/1OuBOvsW1
 
 ### Tutorials
 
+Tutorial: Binary Numbers in Computers - https://www.khanacademy.org/computer-programming/tutorial-binary-numbers-in-computers/6546781371105280
+
 Pixel Art Tutorial - https://www.khanacademy.org/computer-programming/pixel-art-tutorial/5439200909410304
 
 Constructor Tutorial - https://www.khanacademy.org/computer-programming/constructor-tutorial/5080251193049088
