@@ -541,6 +541,8 @@ the United States. Be like Franklin and keep on learning!
 
 - Five Is Alive! - Finish 5 practice tasks
 
+- Pretest Champion - You finished a pretest and unlocked a mission on the learning dashboard. Good work!
+
 #### Moon Badges:
 
 Moon badges are uncommon and represent an investment in learning.
@@ -587,6 +589,12 @@ champion of abolition and rights for African Americans throughout the nineteenth
 - Going Supersonic - Quickly & correctly answer 20 skill problems in a row (time limit depends on difficulty)
 
 - Tenacity - Answer more than 50 problems mostly correctly in a skill before becoming proficient
+
+- Apprentice Trigonometrician - Achieve mastery in Angles 2, Distance Formula, Pythagorean Theorem
+
+- Apprentice Algebraist - Achieve mastery in Fractional Exponents, Exponent Rules, Simplifying Logarithms, One-step Equations with Multiplication, % Word 1, Functions 1
+
+- Presenter - Presented about Khan Academy to others
 
 #### Earth Badges:
 
@@ -638,8 +646,7 @@ Earth badges are rare. They require a significant amount of learning.
 
 - Special Project- Go above and beyond! Contribute to an officially recognized special project that will live on in the KA community
 
-- Helen Keller - Earn 750,000 energy points. Helen Keller (1880-1968) was blind and deaf. With the help of her teacher Ann Sullivan, she went on to graduate from college
-and became an influential writer, lecturer, and activist. Be like Keller and keep on learning!
+- Helen Keller - Earn 750,000 energy points. Helen Keller (1880-1968) was blind and deaf. With the help of her teacher Ann Sullivan, she went on to graduate from college and became an influential writer, lecturer, and activist. Be like Keller and keep on learning!
 
 - Sub-light Speed - Quickly & correctly answer 42 skill problems in a row (time limit depends on difficulty)
 
@@ -652,6 +659,10 @@ and became an influential writer, lecturer, and activist. Be like Keller and kee
 - Geminid - Closed 2020 with an active streak of 100+ days. The Geminid meteor shower has been intensifying every year and recent showers have seen 120–160 meteors per hour. This badge exemplifies commitment to personal growth and improvement!
 
 - Excellent Explainer - Write one of the top 10 explanations given to new programmers during Hour of Code 2015
+
+- Crowdfunding - Help Khan Academy create US Government content
+
+- SAT Advisory Board Member - Guide Khan Academy as an SAT Advisory Board Member
 
 #### Sun Badges:
 
